@@ -1,16 +1,15 @@
-## Hi there 👋
+# SolanaForge
 
-<!--
-**SolanaForge/SolanaForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SolanaForge is a non-custodial Solana token creation platform that allows users to create and deploy SPL tokens directly on-chain using Phantom wallet integration.
 
-Here are some ideas to get you started:
+## Website
+https://solanaforge.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- No coding required
+- On-chain token deployment
+- Phantom wallet signing
+- Fully non-custodial (users control funds)
+
+## Purpose
+Built to simplify token creation for builders and creators in the Solana ecosystem.
