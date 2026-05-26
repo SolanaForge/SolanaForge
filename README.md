@@ -1,6 +1,6 @@
 # SolanaForge
 
-SolanaForge is a non-custodial Solana token creation platform focused on secure, transparent, and user-friendly SPL token launches on Solana mainnet.
+SolanaForge is a non-custodial Solana token creation platform focused on transparent, secure, and user-friendly SPL token launches on Solana mainnet.
 
 ## Features
 
@@ -9,34 +9,59 @@ SolanaForge is a non-custodial Solana token creation platform focused on secure,
 - Phantom wallet compatibility
 - Token metadata support
 - IPFS metadata integration
-- Liquidity and launch support
+- Raydium liquidity integration
 - Revoke mint/freeze/update authorities
 - Transparent transaction simulation and previews
+- No-code token deployment experience
 
-## Security
+## Security & Transparency
 
-SolanaForge is designed with transparency and wallet safety in mind.
+SolanaForge is designed with wallet safety and transparency as a core principle.
 
-- No private keys or seed phrases are collected
-- All transactions are approved directly inside the user’s wallet
-- No hidden approvals or background wallet interactions
-- Users fully control all signing actions
+### Security Principles
 
-## Official Links
+- No private keys or seed phrases are ever requested
+- Users approve all transactions directly inside their wallet
+- No hidden approvals or background signatures
+- No automatic wallet popups on page load
+- Clear transaction previews before signing
+- Fully non-custodial architecture
 
-Website: https://solanaforge.app
+### Wallet Compatibility
 
-X/Twitter: https://x.com/solanaforgeapp
+- Phantom Wallet
+- Solflare
+- Other Solana-compatible wallets
 
-YouTube: https://www.youtube.com/@SolanaForgeTeam
+## Official Website
 
-Medium: https://medium.com/@SolanaForgeTeam
+https://solanaforge.app
 
-Support: support@solanaforge.app
+## Official Community & Social Links
 
-## Pages
+X/Twitter:
+https://x.com/solanaforgeapp
+
+GitHub:
+https://github.com/SolanaForge
+
+Reddit:
+https://www.reddit.com/u/SolanaForge/s/Hd6q4647Rv
+
+YouTube:
+https://www.youtube.com/@SolanaForgeTeam
+
+Medium:
+https://medium.com/@SolanaForgeTeam
+
+## Support
+
+support@solanaforge.app
+
+## Public Pages
 
 - https://solanaforge.app/about
+- https://solanaforge.app/contact
 - https://solanaforge.app/privacy
 - https://solanaforge.app/terms
 - https://solanaforge.app/security
@@ -44,4 +69,8 @@ Support: support@solanaforge.app
 
 ## Mission
 
-Our goal is to simplify Solana token creation while maintaining transparent, non-custodial, and security-conscious wallet interactions aligned with modern Web3 best practices.
+Our mission is to simplify Solana token creation while maintaining transparent, non-custodial, and security-conscious wallet interactions aligned with modern Web3 best practices.
+
+## Disclaimer
+
+SolanaForge is a token creation platform and does not provide financial advice, investment guarantees, or custodial wallet services. Users are fully responsible for their blockchain transactions and token deployments.
