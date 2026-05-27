@@ -1,35 +1,95 @@
 # Security Policy
 
-## SolanaForge Security Principles
+## Supported Platform
 
-SolanaForge is designed as a non-custodial Solana token creation platform.
+SolanaForge aims to maintain transparent and security-conscious wallet interactions for supported platform versions.
 
-### Important Security Notes
+---
 
-- SolanaForge never requests private keys or seed phrases
-- Users approve all blockchain transactions directly within their wallet
-- No hidden approvals or background wallet signatures are performed
-- Wallet connections only occur after explicit user interaction
-- Users maintain full custody and control over their wallets and assets
+## Security Principles
+
+SolanaForge is designed around:
+- non-custodial architecture
+- transparent wallet interactions
+- visible transaction approvals
+- educational onboarding
+- user-controlled signatures
+
+Users always maintain control of their wallets and assets.
+
+SolanaForge does not custody user funds.
+
+---
+
+## Important Safety Reminder
+
+SolanaForge will NEVER request:
+- private keys
+- seed phrases
+- wallet recovery phrases
+
+Users should never share wallet credentials with any person or website.
+
+---
 
 ## Reporting Security Issues
 
-If you discover a security issue, vulnerability, or suspicious behavior, please report it responsibly:
+If you discover:
+- security vulnerabilities
+- phishing concerns
+- wallet interaction issues
+- suspicious behavior
+- impersonation attempts
 
+please report them responsibly.
+
+Security contact:
 support@solanaforge.app
 
-## Supported Wallets
+---
 
-- Phantom
-- Solflare
-- Other compatible Solana wallets
+## Responsible Disclosure
 
-## Best Practices For Users
+Please avoid publicly disclosing security vulnerabilities before they are reviewed.
 
-- Always verify transaction details before signing
-- Never share your seed phrase
-- Double-check token information before deployment
-- Use official SolanaForge links only
+Responsible disclosure helps protect users and platform integrity.
 
-Official website:
+---
+
+## Wallet Safety
+
+Before signing transactions:
+- review wallet prompts carefully
+- verify revoke settings
+- understand estimated costs
+- use official SolanaForge links only
+
+All blockchain actions require explicit wallet approval from the user.
+
+---
+
+## Transparent Wallet Behavior
+
+SolanaForge does NOT:
+- auto-connect wallets on page load
+- request hidden approvals
+- perform background signatures
+- request unrelated permissions
+
+Wallet interactions occur only after explicit user action.
+
+---
+
+## Official Links
+
+Website:
 https://solanaforge.app
+
+GitHub:
+https://github.com/SolanaForge
+
+X/Twitter:
+https://x.com/solanaforgeapp
+
+Support:
+support@solanaforge.app
